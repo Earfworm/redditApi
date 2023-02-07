@@ -1,1 +1,3 @@
-export default interface RedditAwwJson {}
+export default interface RedditAwwJson {
+  data: object;
+}
